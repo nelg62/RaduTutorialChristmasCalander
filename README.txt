@@ -5,3 +5,5 @@ Tutorial by Radu Mariescu-Istodor
 
 creator youtube: https://www.youtube.com/@Radu
 
+finnished day 2 up to day 3 
+
