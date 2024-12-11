@@ -3,7 +3,7 @@ function drawBell(ctx, x, y, size, hue) {
   const left = x - size / 2;
   const bottom = y + size / 2;
   const right = x + size / 2;
-  ctx.strokeRect(top, left, size, size);
+  //   ctx.strokeRect(top, left, size, size);
 
   const ring = {
     radius: size * 0.1,
